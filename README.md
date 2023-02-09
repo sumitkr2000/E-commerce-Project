@@ -1,4 +1,4 @@
-# internship-assignment2
+# E-commerce-Project
 Internship Asssignment
 
 
